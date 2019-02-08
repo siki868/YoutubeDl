@@ -1,3 +1,3 @@
 # YoutubeDl
 
-MP3 downloader out of YouTube URL's given.
+MP3 downloader out of given YouTube URL's .
